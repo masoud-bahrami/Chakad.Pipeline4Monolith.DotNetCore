@@ -1,0 +1,54 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "L:\\Chakad-netcore\\Chakad\\Container\\Chakad.Container.csproj",
+    "projectName": "Chakad.Container",
+    "projectPath": "L:\\Chakad-netcore\\Chakad\\Container\\Chakad.Container.csproj",
+    "outputPath": "L:\\Chakad-netcore\\Chakad\\Container\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "L:\\Chakad-netcore\\Chakad\\Core\\Chakad.Core.csproj": {
+            "projectPath": "L:\\Chakad-netcore\\Chakad\\Core\\Chakad.Core.csproj"
+          },
+          "L:\\Chakad-netcore\\Chakad\\Pipeline\\Core\\Chakad.Pipeline.Core.csproj": {
+            "projectPath": "L:\\Chakad-netcore\\Chakad\\Pipeline\\Core\\Chakad.Pipeline.Core.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Autofac": {
+          "target": "Package",
+          "version": "[4.6.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Container\Chakad.Container.csproj" />
+    <ProjectReference Include="..\..\Core\Chakad.Core.csproj" />
+    <ProjectReference Include="..\Core\Chakad.Pipeline.Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Polly" Version="5.8.0" />
+  </ItemGroup>
+</Project>

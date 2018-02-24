@@ -1,0 +1,13 @@
+L:\Chakad-netcore\Chakad\Container\obj\Debug\netcoreapp2.0\Chakad.Container.csproj.CoreCompileInputs.cache
+L:\Chakad-netcore\Chakad\Container\obj\Debug\netcoreapp2.0\Chakad.Container.AssemblyInfoInputs.cache
+L:\Chakad-netcore\Chakad\Container\obj\Debug\netcoreapp2.0\Chakad.Container.AssemblyInfo.cs
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Container.deps.json
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Container.dll
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Container.pdb
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Core.dll
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Pipeline.Core.dll
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Core.pdb
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\Chakad.Pipeline.Core.pdb
+L:\Chakad-netcore\Chakad\Container\bin\Debug\netcoreapp2.0\fa-Ir\Chakad.Pipeline.Core.resources.dll
+L:\Chakad-netcore\Chakad\Container\obj\Debug\netcoreapp2.0\Chakad.Container.dll
+L:\Chakad-netcore\Chakad\Container\obj\Debug\netcoreapp2.0\Chakad.Container.pdb

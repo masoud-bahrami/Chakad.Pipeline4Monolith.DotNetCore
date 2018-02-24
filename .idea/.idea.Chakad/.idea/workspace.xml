@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c4fcb29-10b7-45a0-be36-71234406df97" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Chakad/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Chakad/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Chakad/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Chakad/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.Chakad/riderModule.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Chakad.sln" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Container/ChakadContainer.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Container/IChakadContainer.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/ChakadPipeline.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/ChakadQueryEngeen.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/ChakadRequestExtensions.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/ChakadServiceBus.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/Configure.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/ConfigureExtensions.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Pipeline/Pipeline/OrderConfiger.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ChakadContainer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Container/ChakadContainer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <marker date="1519469950981" expanded="true" signature="6:200" ph="..." />
+                <marker date="1519469950981" expanded="true" signature="228:4728" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="265:4726" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="498:637" ph="///  ... " />
+                <marker date="1519469950981" expanded="true" signature="705:1094" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="884:931" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="1172:1319" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="1389:1554" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="1622:1799" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="1809:1980" ph="///  ... " />
+                <marker date="1519469950981" expanded="true" signature="2050:2247" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="2146:2237" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="2290:2672" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="2787:3363" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="3427:4370" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="4497:4603" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="4523:4593" ph="{...}" />
+                <marker date="1519469950981" expanded="true" signature="4651:4720" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chakad.Container.AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Container/obj/Debug/netcoreapp2.0/Chakad.Container.AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding>
+                <marker date="1519473507713" expanded="true" signature="0:259" ph="/* ------------------------------------------------------------------------------ ... */" />
+                <marker date="1519473507713" expanded="true" signature="267:338" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigureExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ConfigureExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <marker date="1519471393471" expanded="false" signature="6:86" ph="..." />
+                <marker date="1519471393471" expanded="true" signature="159:1003" ph="{...}" />
+                <marker date="1519471393471" expanded="true" signature="174:338" ph="///  ... " />
+                <marker date="1519471393471" expanded="true" signature="442:516" ph="/* where T : IDomainEvent ... */" />
+                <marker date="1519471393471" expanded="true" signature="516:617" ph="{...}" />
+                <marker date="1519471393471" expanded="true" signature="718:812" ph="{...}" />
+                <marker date="1519471393471" expanded="true" signature="890:997" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChakadPipeline.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadPipeline.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <folding>
+                <marker date="1519471393549" expanded="true" signature="6:396" ph="..." />
+                <marker date="1519471393549" expanded="true" signature="423:5252" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="469:5250" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="596:828" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="943:1180" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="1396:2715" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="1927:2119" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="1980:2104" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="2360:2705" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="2533:2657" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="2886:3568" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="3313:3495" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="3679:3766" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="3859:5244" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="4108:4676" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="4332:4658" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="4773:5232" ph="{...}" />
+                <marker date="1519471393549" expanded="true" signature="4900:5218" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IWantToHandleThisRequest.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Core/MessageHandler/IWantToHandleThisRequest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="12" />
+              <folding>
+                <marker date="1519470638316" expanded="true" signature="6:159" ph="..." />
+                <marker date="1519470638316" expanded="true" signature="206:744" ph="{...}" />
+                <marker date="1519470638316" expanded="true" signature="444:742" ph="{...}" />
+                <marker date="1519470638316" expanded="true" signature="663:736" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderConfiger.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/OrderConfiger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1519471393595" expanded="false" signature="6:66" ph="..." />
+                <marker date="1519471393595" expanded="true" signature="100:220" ph="/// Used to specify the order in which message handlers will be activated. ... " />
+                <marker date="1519471393595" expanded="true" signature="260:1503" ph="{...}" />
+                <marker date="1519471393595" expanded="true" signature="394:556" ph="/// Specifies that the given type will be activated before all others. ... " />
+                <marker date="1519471393595" expanded="true" signature="654:727" ph="/* where T : IDomainEvent ... */" />
+                <marker date="1519471393595" expanded="true" signature="727:1246" ph="{...}" />
+                <marker date="1519471393595" expanded="true" signature="799:1102" ph="{...}" />
+                <marker date="1519471393595" expanded="true" signature="973:1088" ph="{...}" />
+                <marker date="1519471393595" expanded="true" signature="1120:1236" ph="{...}" />
+                <marker date="1519471393595" expanded="true" signature="1344:1497" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Configure.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Configure.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <marker date="1519471393607" expanded="true" signature="6:286" ph="..." />
+                <marker date="1519471393607" expanded="true" signature="313:3133" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="342:3131" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="357:680" ph="~ Private Memebers ! ~" />
+                <marker date="1519471393607" expanded="true" signature="554:661" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="580:651" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="690:889" ph="///  ... " />
+                <marker date="1519471393607" expanded="true" signature="1003:1250" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="1259:1349" ph="///  ... " />
+                <marker date="1519471393607" expanded="true" signature="1404:1872" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="1454:1832" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="1556:1639" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="1715:1818" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="1882:2059" ph="///  ... " />
+                <marker date="1519471393607" expanded="true" signature="2126:2365" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="2375:3125" ph="~ Private and Internal Methodes! ~" />
+                <marker date="1519471393607" expanded="true" signature="2487:3106" ph="{...}" />
+                <marker date="1519471393607" expanded="true" signature="3013:3096" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChakadServiceBus.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadServiceBus.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1519471393619" expanded="false" signature="6:46" ph="..." />
+                <marker date="1519471393619" expanded="true" signature="73:211" ph="{...}" />
+                <marker date="1519471393619" expanded="true" signature="116:209" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChakadRequestExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadRequestExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <folding>
+                <marker date="1519471393652" expanded="true" signature="6:144" ph="..." />
+                <marker date="1519471393652" expanded="true" signature="171:1366" ph="{...}" />
+                <marker date="1519471393652" expanded="true" signature="221:1364" ph="{...}" />
+                <marker date="1519471393652" expanded="true" signature="236:421" ph="///  ... " />
+                <marker date="1519471393652" expanded="true" signature="557:789" ph="{...}" />
+                <marker date="1519471393652" expanded="true" signature="798:983" ph="///  ... " />
+                <marker date="1519471393652" expanded="true" signature="1121:1358" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Core/ActivatorHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Container/ChakadContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Container/IChakadContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/ConfigureExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Core/MessageHandler/IWantToHandleThisRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadPipeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadQueryEngeen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/OrderConfiger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/Configure.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadServiceBus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Container/obj/Debug/netcoreapp2.0/Chakad.Container.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadRequestExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/Core/Chakad.Core.csproj" />
+        <option value="$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline/Class1.cs" />
+        <option value="$PROJECT_DIR$/Container/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/Container/obj/Debug/netcoreapp2.0/Chakad.Container.AssemblyInfo.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Chakad (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Chakad.Pipeline4Monolith/Chakad/Pipeline/Pipeline/ChakadRequestExtensions.cs" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c4fcb29-10b7-45a0-be36-71234406df97" name="Default" comment="" />
+      <created>1519469770233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519469770233</updated>
+      <workItem from="1519469771675" duration="2632000" />
+      <workItem from="1519472435507" duration="5182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7814000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5801105" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5801105" sideWeight="0.49583334" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36197916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49583334" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Container/ChakadContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1519469950981" expanded="true" signature="6:200" ph="..." />
+            <marker date="1519469950981" expanded="true" signature="228:4728" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="265:4726" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="498:637" ph="///  ... " />
+            <marker date="1519469950981" expanded="true" signature="705:1094" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="884:931" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1172:1319" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1389:1554" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1622:1799" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1809:1980" ph="///  ... " />
+            <marker date="1519469950981" expanded="true" signature="2050:2247" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="2146:2237" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="2290:2672" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="2787:3363" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="3427:4370" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="4497:4603" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="4523:4593" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="4651:4720" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Container/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/Chakad.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ConfigureExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1519471393471" expanded="false" signature="6:86" ph="..." />
+            <marker date="1519471393471" expanded="true" signature="159:1003" ph="{...}" />
+            <marker date="1519471393471" expanded="true" signature="174:338" ph="///  ... " />
+            <marker date="1519471393471" expanded="true" signature="442:516" ph="/* where T : IDomainEvent ... */" />
+            <marker date="1519471393471" expanded="true" signature="516:617" ph="{...}" />
+            <marker date="1519471393471" expanded="true" signature="718:812" ph="{...}" />
+            <marker date="1519471393471" expanded="true" signature="890:997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadQueryEngeen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393557" expanded="true" signature="6:251" ph="..." />
+            <marker date="1519471393557" expanded="true" signature="277:2504" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="329:2502" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="501:834" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="1050:2496" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="1572:1764" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="1625:1749" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="2005:2485" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="2194:2438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/OrderConfiger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393595" expanded="false" signature="6:66" ph="..." />
+            <marker date="1519471393595" expanded="true" signature="100:220" ph="/// Used to specify the order in which message handlers will be activated. ... " />
+            <marker date="1519471393595" expanded="true" signature="260:1503" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="394:556" ph="/// Specifies that the given type will be activated before all others. ... " />
+            <marker date="1519471393595" expanded="true" signature="654:727" ph="/* where T : IDomainEvent ... */" />
+            <marker date="1519471393595" expanded="true" signature="727:1246" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="799:1102" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="973:1088" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="1120:1236" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="1344:1497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Configure.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393607" expanded="true" signature="6:286" ph="..." />
+            <marker date="1519471393607" expanded="true" signature="313:3133" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="342:3131" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="357:680" ph="~ Private Memebers ! ~" />
+            <marker date="1519471393607" expanded="true" signature="554:661" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="580:651" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="690:889" ph="///  ... " />
+            <marker date="1519471393607" expanded="true" signature="1003:1250" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1259:1349" ph="///  ... " />
+            <marker date="1519471393607" expanded="true" signature="1404:1872" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1454:1832" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1556:1639" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1715:1818" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1882:2059" ph="///  ... " />
+            <marker date="1519471393607" expanded="true" signature="2126:2365" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="2375:3125" ph="~ Private and Internal Methodes! ~" />
+            <marker date="1519471393607" expanded="true" signature="2487:3106" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="3013:3096" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadServiceBus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393619" expanded="false" signature="6:46" ph="..." />
+            <marker date="1519471393619" expanded="true" signature="73:211" ph="{...}" />
+            <marker date="1519471393619" expanded="true" signature="116:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadRequestExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1519471393652" expanded="true" signature="6:144" ph="..." />
+            <marker date="1519471393652" expanded="true" signature="171:1366" ph="{...}" />
+            <marker date="1519471393652" expanded="true" signature="221:1364" ph="{...}" />
+            <marker date="1519471393652" expanded="true" signature="236:421" ph="///  ... " />
+            <marker date="1519471393652" expanded="true" signature="557:789" ph="{...}" />
+            <marker date="1519471393652" expanded="true" signature="798:983" ph="///  ... " />
+            <marker date="1519471393652" expanded="true" signature="1121:1358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadPipeline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393549" expanded="true" signature="6:396" ph="..." />
+            <marker date="1519471393549" expanded="true" signature="423:5252" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="469:5250" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="596:828" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="943:1180" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="1396:2715" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="1927:2119" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="1980:2104" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="2360:2705" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="2533:2657" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="2886:3568" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="3313:3495" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="3679:3766" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="3859:5244" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4108:4676" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4332:4658" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4773:5232" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4900:5218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Core/ActivatorHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519469474265" expanded="false" signature="6:38" ph="..." />
+            <marker date="1519469474265" expanded="true" signature="61:2362" ph="{...}" />
+            <marker date="1519469474265" expanded="true" signature="103:2360" ph="{...}" />
+            <marker date="1519469474265" expanded="true" signature="118:291" ph="///  ... " />
+            <marker date="1519469474265" expanded="true" signature="376:859" ph="{...}" />
+            <marker date="1519469474265" expanded="true" signature="868:1086" ph="///  ... " />
+            <marker date="1519469474265" expanded="true" signature="1169:1702" ph="{...}" />
+            <marker date="1519469474265" expanded="true" signature="1759:2036" ph="{...}" />
+            <marker date="1519469474265" expanded="true" signature="2095:2354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Container/IChakadContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519469951017" expanded="true" signature="6:28" ph="..." />
+            <marker date="1519469951017" expanded="true" signature="56:1001" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="96:233" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="287:999" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="389:465" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="510:580" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="636:708" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="792:993" ph="{...}" />
+            <marker date="1519469951017" expanded="true" signature="818:982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/Configure.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/ChakadQueryEngeen.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/ChakadPipeline.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/ChakadServiceBus.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/ChakadRequestExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/OrderConfiger.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/ConfigureExtensions.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/IQueryEngeen.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/IPipeline.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline.Core/Options/ChakadMessageProperty.cs" />
+    <entry file="file://$PROJECT_DIR$/Core/Chakad.Core.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Chakad.Pipeline/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadQueryEngeen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393557" expanded="true" signature="6:251" ph="..." />
+            <marker date="1519471393557" expanded="true" signature="277:2504" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="329:2502" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="501:834" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="1050:2496" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="1572:1764" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="1625:1749" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="2005:2485" ph="{...}" />
+            <marker date="1519471393557" expanded="true" signature="2194:2438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadRequestExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding>
+            <marker date="1519471393652" expanded="true" signature="6:144" ph="..." />
+            <marker date="1519471393652" expanded="true" signature="171:1366" ph="{...}" />
+            <marker date="1519471393652" expanded="true" signature="221:1364" ph="{...}" />
+            <marker date="1519471393652" expanded="true" signature="236:421" ph="///  ... " />
+            <marker date="1519471393652" expanded="true" signature="557:789" ph="{...}" />
+            <marker date="1519471393652" expanded="true" signature="798:983" ph="///  ... " />
+            <marker date="1519471393652" expanded="true" signature="1121:1358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadServiceBus.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393619" expanded="false" signature="6:46" ph="..." />
+            <marker date="1519471393619" expanded="true" signature="73:211" ph="{...}" />
+            <marker date="1519471393619" expanded="true" signature="116:209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/Configure.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393607" expanded="true" signature="6:286" ph="..." />
+            <marker date="1519471393607" expanded="true" signature="313:3133" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="342:3131" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="357:680" ph="~ Private Memebers ! ~" />
+            <marker date="1519471393607" expanded="true" signature="554:661" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="580:651" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="690:889" ph="///  ... " />
+            <marker date="1519471393607" expanded="true" signature="1003:1250" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1259:1349" ph="///  ... " />
+            <marker date="1519471393607" expanded="true" signature="1404:1872" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1454:1832" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1556:1639" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1715:1818" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="1882:2059" ph="///  ... " />
+            <marker date="1519471393607" expanded="true" signature="2126:2365" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="2375:3125" ph="~ Private and Internal Methodes! ~" />
+            <marker date="1519471393607" expanded="true" signature="2487:3106" ph="{...}" />
+            <marker date="1519471393607" expanded="true" signature="3013:3096" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/OrderConfiger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519471393595" expanded="false" signature="6:66" ph="..." />
+            <marker date="1519471393595" expanded="true" signature="100:220" ph="/// Used to specify the order in which message handlers will be activated. ... " />
+            <marker date="1519471393595" expanded="true" signature="260:1503" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="394:556" ph="/// Specifies that the given type will be activated before all others. ... " />
+            <marker date="1519471393595" expanded="true" signature="654:727" ph="/* where T : IDomainEvent ... */" />
+            <marker date="1519471393595" expanded="true" signature="727:1246" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="799:1102" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="973:1088" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="1120:1236" ph="{...}" />
+            <marker date="1519471393595" expanded="true" signature="1344:1497" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ConfigureExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <marker date="1519471393471" expanded="false" signature="6:86" ph="..." />
+            <marker date="1519471393471" expanded="true" signature="159:1003" ph="{...}" />
+            <marker date="1519471393471" expanded="true" signature="174:338" ph="///  ... " />
+            <marker date="1519471393471" expanded="true" signature="442:516" ph="/* where T : IDomainEvent ... */" />
+            <marker date="1519471393471" expanded="true" signature="516:617" ph="{...}" />
+            <marker date="1519471393471" expanded="true" signature="718:812" ph="{...}" />
+            <marker date="1519471393471" expanded="true" signature="890:997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Container/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Core/MessageHandler/IWantToHandleThisRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="12" />
+          <folding>
+            <marker date="1519470638316" expanded="true" signature="6:159" ph="..." />
+            <marker date="1519470638316" expanded="true" signature="206:744" ph="{...}" />
+            <marker date="1519470638316" expanded="true" signature="444:742" ph="{...}" />
+            <marker date="1519470638316" expanded="true" signature="663:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Container/ChakadContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <marker date="1519469950981" expanded="true" signature="6:200" ph="..." />
+            <marker date="1519469950981" expanded="true" signature="228:4728" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="265:4726" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="498:637" ph="///  ... " />
+            <marker date="1519469950981" expanded="true" signature="705:1094" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="884:931" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1172:1319" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1389:1554" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1622:1799" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="1809:1980" ph="///  ... " />
+            <marker date="1519469950981" expanded="true" signature="2050:2247" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="2146:2237" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="2290:2672" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="2787:3363" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="3427:4370" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="4497:4603" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="4523:4593" ph="{...}" />
+            <marker date="1519469950981" expanded="true" signature="4651:4720" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Container/obj/Debug/netcoreapp2.0/Chakad.Container.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <marker date="1519473507713" expanded="true" signature="0:259" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1519473507713" expanded="true" signature="267:338" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipeline/Pipeline/ChakadPipeline.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="43" lean-forward="false" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <marker date="1519471393549" expanded="true" signature="6:396" ph="..." />
+            <marker date="1519471393549" expanded="true" signature="423:5252" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="469:5250" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="596:828" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="943:1180" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="1396:2715" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="1927:2119" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="1980:2104" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="2360:2705" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="2533:2657" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="2886:3568" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="3313:3495" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="3679:3766" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="3859:5244" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4108:4676" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4332:4658" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4773:5232" ph="{...}" />
+            <marker date="1519471393549" expanded="true" signature="4900:5218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

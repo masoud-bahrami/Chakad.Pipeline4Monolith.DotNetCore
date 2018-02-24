@@ -1,0 +1,8 @@
+L:\Chakad-netcore\Chakad\Core\bin\Debug\netcoreapp2.0\Chakad.Core.deps.json
+L:\Chakad-netcore\Chakad\Core\bin\Debug\netcoreapp2.0\Chakad.Core.dll
+L:\Chakad-netcore\Chakad\Core\bin\Debug\netcoreapp2.0\Chakad.Core.pdb
+L:\Chakad-netcore\Chakad\Core\obj\Debug\netcoreapp2.0\Chakad.Core.csproj.CoreCompileInputs.cache
+L:\Chakad-netcore\Chakad\Core\obj\Debug\netcoreapp2.0\Chakad.Core.AssemblyInfoInputs.cache
+L:\Chakad-netcore\Chakad\Core\obj\Debug\netcoreapp2.0\Chakad.Core.AssemblyInfo.cs
+L:\Chakad-netcore\Chakad\Core\obj\Debug\netcoreapp2.0\Chakad.Core.dll
+L:\Chakad-netcore\Chakad\Core\obj\Debug\netcoreapp2.0\Chakad.Core.pdb

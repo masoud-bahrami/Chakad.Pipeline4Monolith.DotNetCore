@@ -1,0 +1,15 @@
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Pipeline.deps.json
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Pipeline.dll
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Pipeline.pdb
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Container.dll
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Core.dll
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Pipeline.Core.dll
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Container.pdb
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Core.pdb
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\Chakad.Pipeline.Core.pdb
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\bin\Debug\netcoreapp2.0\fa-Ir\Chakad.Pipeline.Core.resources.dll
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\obj\Debug\netcoreapp2.0\Chakad.Pipeline.csproj.CoreCompileInputs.cache
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\obj\Debug\netcoreapp2.0\Chakad.Pipeline.AssemblyInfoInputs.cache
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\obj\Debug\netcoreapp2.0\Chakad.Pipeline.AssemblyInfo.cs
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\obj\Debug\netcoreapp2.0\Chakad.Pipeline.dll
+L:\Chakad-netcore\Chakad\Pipeline\Pipeline\obj\Debug\netcoreapp2.0\Chakad.Pipeline.pdb

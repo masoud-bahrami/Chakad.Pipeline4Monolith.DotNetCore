@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.6.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Chakad.Core.csproj" />
+    <ProjectReference Include="..\Pipeline\Core\Chakad.Pipeline.Core.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\3tar\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Chakad.41206723.00" t="ExcludeRecursive" />
+    <e p="L:\Chakad-netcore\Chakad" t="IncludeFlat">
+      <e p="Chakad.sln" t="IncludeFlat" />
+      <e p="Container" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chakad.Container.csproj" t="IncludeRecursive" />
+        <e p="Chakad.Container.nuspec" t="Include" />
+        <e p="ChakadContainer.cs" t="Include" />
+        <e p="IChakadContainer.cs" t="Include" />
+        <e p="nupackages" t="Include">
+          <e p="Chakad.Container.2.0.0.nupkg" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Chakad.Container.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Core" t="IncludeRecursive">
+        <e p="ActivatorHelper.cs" t="Include" />
+        <e p="Attributes" t="Include">
+          <e p="ContractAnnotationAttribute.cs" t="Include" />
+          <e p="InvokerParameterNameAttribute.cs" t="Include" />
+          <e p="NoEnumerationAttribute.cs" t="Include" />
+          <e p="NotNullAttribute.cs" t="Include" />
+          <e p="TimeToBeReceivedAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chakad.Core.csproj" t="IncludeRecursive" />
+        <e p="Chakad.Core.nuspec" t="Include" />
+        <e p="ChakadFieldType.cs" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="ExceptionExtensions.cs" t="Include" />
+        </e>
+        <e p="Guard.cs" t="Include" />
+        <e p="nupackages" t="Include">
+          <e p="Chakad.Core.2.0.0.nupkg" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Chakad.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PathHelper.cs" t="Include" />
+        <e p="ServiceLocator.cs" t="Include" />
+        <e p="TypeExtension.cs" t="Include" />
+        <e p="TypeHelper.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pipeline\Core" t="IncludeRecursive">
+        <e p="Attributes" t="Include">
+          <e p="ChakadAttribute.cs" t="Include" />
+          <e p="GuidRequiredAttribute.cs" t="Include" />
+          <e p="IHaveNotAnyPolicyAttribute.cs" t="Include" />
+          <e p="ThisIsTheBaseHandlerForCommandObjectAttribute.cs" t="Include" />
+          <e p="ThisIsTheBaseHandlerForQueryObjectAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chakad.Pipeline.Core.csproj" t="IncludeRecursive" />
+        <e p="Chakad.Pipeline.Core.nuspec" t="Include" />
+        <e p="Chakad.Pipeline.nuspec" t="Include" />
+        <e p="Command" t="Include">
+          <e p="IChakadRequest.cs" t="Include" />
+          <e p="ICommand.cs" t="Include" />
+        </e>
+        <e p="Event" t="Include">
+          <e p="IDomainEvent.cs" t="Include" />
+        </e>
+        <e p="Exceptions" t="Include">
+          <e p="ChakadMessageViolationPolicyException.cs" t="Include" />
+          <e p="ChakadNotAccessPolicyException.cs" t="Include" />
+          <e p="ChakadObjectInitializationFieldException.cs" t="Include" />
+          <e p="ChakadPipelineNotFoundHandler.cs" t="Include" />
+          <e p="ChakadPipelineTimeoutException.cs" t="Include" />
+        </e>
+        <e p="IPipeline.cs" t="Include" />
+        <e p="IQueryEngeen.cs" t="Include" />
+        <e p="Message" t="Include">
+          <e p="IChakadResult.cs" t="Include" />
+          <e p="IMessage.cs" t="Include" />
+          <e p="IMessageInterface.cs" t="Include" />
+        </e>
+        <e p="MessageHandler" t="Include">
+          <e p="IHandleMessage.cs" t="Include" />
+          <e p="IWantToHandleEvent.cs" t="Include" />
+          <e p="IWantToHandleThisQuery.cs" t="Include" />
+          <e p="IWantToHandleThisRequest.cs" t="Include" />
+          <e p="IWantToRunAfter.cs" t="Include" />
+          <e p="MessageHandlerBase.cs" t="Include" />
+        </e>
+        <e p="nupackages" t="Include">
+          <e p="Chakad.Pipeline.2.0.0.nupkg" t="Include" />
+          <e p="Chakad.Pipeline.Core.2.0.0.nupkg" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Chakad.Pipeline.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Options" t="Include">
+          <e p="ChakadMessageProperty.cs" t="Include" />
+          <e p="ExtendableOptions.cs" t="Include" />
+          <e p="GuardAgainstMessage.cs" t="Include" />
+          <e p="PublishOptions.cs" t="Include" />
+          <e p="ReplyOptions.cs" t="Include" />
+          <e p="SendOptions.cs" t="Include" />
+          <e p="SubscribeOptions.cs" t="Include" />
+          <e p="UnsubscribeOptions.cs" t="Include" />
+        </e>
+        <e p="Query" t="Include">
+          <e p="ChakadListQuery.cs" t="Include" />
+          <e p="ChakadListQueryResult.cs" t="Include" />
+          <e p="ChakadQuery.cs" t="Include" />
+          <e p="ChakadQueryResult.cs" t="Include" />
+          <e p="IBusinessQuery.cs" t="Include" />
+          <e p="IQuery.cs" t="Include" />
+          <e p="QueryResult.cs" t="Include" />
+        </e>
+        <e p="Resource" t="Include">
+          <e p="Resource.Designer.cs" t="Include" />
+          <e p="Resource.fa-Ir.resx" t="Include" />
+          <e p="Resource.resx" t="Include" />
+          <e p="ResourceHelper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Pipeline\Pipeline" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Chakad.Pipeline.csproj" t="IncludeRecursive" />
+        <e p="Chakad.Pipeline.nuspec" t="Include" />
+        <e p="ChakadPipeline.cs" t="Include" />
+        <e p="ChakadQueryEngeen.cs" t="Include" />
+        <e p="ChakadRequestExtensions.cs" t="Include" />
+        <e p="ChakadServiceBus.cs" t="Include" />
+        <e p="Configure.cs" t="Include" />
+        <e p="ConfigureExtensions.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Chakad.Pipeline.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderConfiger.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
